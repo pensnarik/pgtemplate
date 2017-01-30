@@ -6,7 +6,7 @@ external environment to SQL scripts.
 
 ## Example docker-compose.yml
 
-The only mandatory argument is a name of a database. You should prefix variable with 'INSTALL_'
+The only mandatory argument is a name of a database. You should prefix variable with `INSTALL_`
 to pass it inside the container. Variable which stores database name is called `INSTALL_DATABASE_NAME`.
 
 ```
